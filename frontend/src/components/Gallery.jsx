@@ -40,7 +40,7 @@ const Gallery = () => {
             >
               <img 
                 src={image} 
-                alt={`ITHI HA ASA Foods Gallery ${index + 1}`} 
+                alt={`ITI HA ASA FOODS Gallery ${index + 1}`} 
                 loading="lazy"
                 decoding="async"
               />

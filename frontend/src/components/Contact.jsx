@@ -92,7 +92,7 @@ const Contact = () => {
               allowFullScreen=""
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="ITHI HA ASA Foods Location"
+              title="ITI HA ASA FOODS Location"
             ></iframe>
           </div>
         </div>
